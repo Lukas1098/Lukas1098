@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### A Jr Full-Stack Developer working at [GoTiger AI](https://gotiger.ai/)<br>
+#### A Software Developer working at [GoTiger AI](https://gotiger.ai/)<br>
 
 - ⚙️ I use daily: `.js`, `.jsx`, `.ts`, `.tsx`, `.css`, `.scss`, `.json`.
 - 🌍  I'm mostly active within the **JavaScript and React** communities.
