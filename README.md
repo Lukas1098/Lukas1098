@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### A Software Developer working at [GoTiger AI](https://gotiger.ai/)<br>
+#### A Software Developer working at [GoTiger AI](https://gotiger.ai/) and [Foxy](https://foxy.com.co/) <br>
 
 - ⚙️ I use daily: `.js`, `.jsx`, `.ts`, `.tsx`, `.css`, `.vercel`, `.json`.
 - 🌍  I'm mostly active within the **TypeScript and NextJS** communities.
