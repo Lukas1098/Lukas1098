@@ -1,10 +1,9 @@
 ### Hello there 👋
 
-#### A Software Developer working at [GoTiger AI](https://gotiger.ai/) and [Foxy](https://foxy.com.co/) <br>
+#### Software Developer at [GoTiger AI](https://gotiger.ai/) and [Foxy](https://foxy.com.co/)
 
-- ⚙️ I use daily: `.js`, `.jsx`, `.ts`, `.tsx`, `.css`, `.vercel`, `.json`.
-- 🌍  I'm mostly active within the **TypeScript and NextJS** communities.
-- 💅 Exploring: Potential projects involving Next.js for server-side rendering and Express.js for backend services.
-- 💬 `ping` me about React, Next.js, Express.js, web development.
-- 🧠 AI Enthusiast: Deeply interested and knowledgeable about Artificial Intelligence, always eager to explore its integration in web technologies.
-- 🎓 Future Analyst Programmer: Soon to be a University Graduate from Universidad Abierta Interamericana.
+- ⚙️ I work daily with: `.js`, `.jsx`, `.ts`, `.tsx`, `.css`, `.json`.
+- ⚡ Focused on building projects with **TypeScript**, **Next.js**, and **Express.js**.
+- 🛠️ Interested in server-side rendering, API development, and scalable SaaS architectures.
+- 🤖 Passionate about **Artificial Intelligence**, especially its integration into web technologies.
+- 🎓 Currently completing my Analyst Programmer degree at Universidad Abierta Interamericana.
