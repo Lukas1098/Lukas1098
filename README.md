@@ -10,4 +10,4 @@ Interested in server-side rendering, API development, and scalable SaaS architec
 
 Passionate about **Artificial Intelligence**, especially its integration into web technologies.<br>
 
-Currently completing my Analyst Programmer degree at Universidad Abierta Interamericana.
+Analyst Programmer graduated at Universidad Abierta Interamericana.
