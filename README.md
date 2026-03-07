@@ -1,5 +1,6 @@
-<img src="./4c818348-c83b-4aa8-a49d-3a80e72b27d4.gif" width="100%">
+<img src="./c1e614aa-a7c3-45e3-ac88-b6e59be3aebc.gif" width="100%">
 
 <p>
-  Frontend Engineer
+  Frontend Engineer at 
+  <a href="https://pmit.com.ar" target="_blank">pmit</a>
 </p>
