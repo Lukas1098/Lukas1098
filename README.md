@@ -1,13 +1,6 @@
-<table>
-<tr>
-<td valign="top" width="50%">
+<img src="https://cdn.cosmos.so/6092871b-58d6-4398-915a-1466758a8462?format=jpeg">
 
-### Hello there 👋
-
-#### I'm a Frontend Engineer;
-
-I work daily with: <code>.js</code>, <code>.jsx</code>, <code>.ts</code>, <code>.tsx</code>, <code>.css</code>, <code>.json</code>.<br></li> 
-Focused on building projects with <strong>TypeScript</strong> & <strong>Next.js</strong>.<br></li> 
-Interested in: performance optimization, SSR, and interactive UI design.<br></li>
-Analyst Programmer - Universidad Abierta Interamericana.</li>
-</td>
+<p>
+  Frontend Engineer at 
+  <a href="https://algility.com">Algility</a>
+</p>
